@@ -14,26 +14,22 @@ Actualmente trabajo con:
 
 
 ## Experiencia
-
 Desarrollo y mantenimiento de aplicaciones empresariales, integración de sistemas y construcción de APIs para procesos de negocio.
 
 ## Tecnologías
 
 ### Backend
-
 - Java
 - Spring Boot
 - Maven
 - JPA / Hibernate
 
 ### Bases de datos
-
 - Oracle
 - SQL
 
 
 ### Herramientas
-
 - Git
 - GitHub
 - Docker
@@ -43,14 +39,22 @@ Desarrollo y mantenimiento de aplicaciones empresariales, integración de sistem
 - Formación continua en desarrollo de software
 
 
-## Proyectos
+## Portfolio de aprendizaje
 
-Actualmente estoy construyendo y ampliando este portfolio con proyectos personales, ejercicios y retos técnicos.
+Este repositorio forma parte de mi formación en Código Samurái.
 
-## Contacto
+Aquí iré recopilando los ejercicios, retos y proyectos realizados durante el itinerario de Desarrollo de Aplicaciones Web Multiplataforma (Flutter y Dart).
+
+### Retos completados
+
+- Pendiente
+
+### Certificaciones
+
+- En progreso
+
+### Contacto
 
 GitHub:
 https://github.com/tinosuarezgarcia
 
-LinkedIn:
-(Añadir enlace)
