@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hola, soy Cristino Suárez
 
-<!--
-**tinosuarezgarcia/tinosuarezgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Soy Software Engineer especializado en desarrollo Backend con Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajo con:
+
+- Java
+- Spring Boot
+- Oracle
+- APIs REST
+- Microservicios
+
+
+## Experiencia
+
+Desarrollo y mantenimiento de aplicaciones empresariales, integración de sistemas y construcción de APIs para procesos de negocio.
+
+## Tecnologías
+
+### Backend
+
+- Java
+- Spring Boot
+- Maven
+- JPA / Hibernate
+
+### Bases de datos
+
+- Oracle
+- SQL
+
+
+### Herramientas
+
+- Git
+- GitHub
+- Docker
+
+## Certificaciones y formación
+
+- Formación continua en desarrollo de software
+
+
+## Proyectos
+
+Actualmente estoy construyendo y ampliando este portfolio con proyectos personales, ejercicios y retos técnicos.
+
+## Contacto
+
+GitHub:
+https://github.com/tinosuarezgarcia
+
+LinkedIn:
+(Añadir enlace)
